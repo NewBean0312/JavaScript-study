@@ -8,4 +8,4 @@ lang = "JS";
 lang = "JS";
 
 // 선언과 동시에 할당 (권장)
-const lang = "JavaScript";
+const language = "JavaScript";
