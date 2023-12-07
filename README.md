@@ -36,9 +36,16 @@
    - 논리 연산자
    - 삼항 연산자
 
-6. [배열]()
+6. [배열](https://github.com/NewBean0312/JavaScript-study/blob/b08eab5e688c174ab4cdf36a73b54f66131b73c0/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95/attay.js)
 
    - 배열
    - 배열 추가
    - 배열 수정
    - 배열관련 메서드
+
+7. [문]()
+
+   - if문
+   - if-else문
+   - if-elseif문
+   - for문
