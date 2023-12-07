@@ -43,9 +43,15 @@
    - 배열 수정
    - 배열관련 메서드
 
-7. [문]()
+7. [문](https://github.com/NewBean0312/JavaScript-study/blob/0739d2d30cacd40bcda3fbd768dd8effc201b328/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95/statement.js)
 
    - if문
    - if-else문
    - if-elseif문
    - for문
+
+8. [문]()
+
+   - 함수 선언 및 호출
+   - 함수를 통한 덧셈
+   - 함수를 통한 곱셈
