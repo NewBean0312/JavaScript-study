@@ -1,0 +1,6 @@
+Navigator {
+  language : 선호하는 언어,
+  maxTouchPoints : 동시 터치 지점 수,
+  userAgent : 브라우저 정보,
+  platform : 운영체제 정보,
+}

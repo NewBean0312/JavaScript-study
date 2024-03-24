@@ -1,0 +1,7 @@
+window {
+  alert : 경고 메시지 출력 함수,
+  confirm : 확인 메시지 출력 함수,
+  prompt : 입력 메시지 출력 함수,
+  setTimeout : n초 후에 함수를 실행하는 타이머 함수,
+  setInterval : n초 마다 함수를 실행하는 타이머 함수,
+}

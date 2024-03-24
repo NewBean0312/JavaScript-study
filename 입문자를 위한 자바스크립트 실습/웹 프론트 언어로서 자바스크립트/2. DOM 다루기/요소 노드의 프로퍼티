@@ -1,0 +1,6 @@
+Node {
+  id: 'test',
+  tagName: 'div',
+  innerHTML: '테스트용',
+  style: 스타일객체,
+}

@@ -1,0 +1,5 @@
+Location {
+  href : 현재 URL,
+  pathname : URL 경로,
+  reload : 새로고침 함수,
+}
