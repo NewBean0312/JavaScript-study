@@ -26,7 +26,13 @@
 - [네트워크 요청 정리 바로가기](https://newbean-j.tistory.com/504)
 
 6. [쿠키](https://github.com/NewBean0312/JavaScript-study/tree/main/%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%8B%A4%EC%8A%B5/%EC%9B%B9%20%ED%94%84%EB%A1%A0%ED%8A%B8%20%EC%96%B8%EC%96%B4%EB%A1%9C%EC%84%9C%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/7.%20%EC%BF%A0%ED%82%A4)
+
 - [쿠키 정리 바로가기](https://newbean-j.tistory.com/505)
 
-7. [웹 스토리지]()
+7. [웹 스토리지](https://github.com/NewBean0312/JavaScript-study/tree/main/%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%8B%A4%EC%8A%B5/%EC%9B%B9%20%ED%94%84%EB%A1%A0%ED%8A%B8%20%EC%96%B8%EC%96%B4%EB%A1%9C%EC%84%9C%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/8.%20%EC%9B%B9%20%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80)
+
 - [웹 스토리지 정리 바로가기](https://newbean-j.tistory.com/506)
+
+9. [데이터 포맷](https://github.com/NewBean0312/JavaScript-study/tree/main/%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%8B%A4%EC%8A%B5/%EC%9B%B9%20%ED%94%84%EB%A1%A0%ED%8A%B8%20%EC%96%B8%EC%96%B4%EB%A1%9C%EC%84%9C%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/9.%20JSON)
+
+- [데이터 포맷 정리](https://newbean-j.tistory.com/507)
